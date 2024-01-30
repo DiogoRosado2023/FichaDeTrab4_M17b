@@ -10,7 +10,7 @@ public class Ponto2D {
 
     private int x;
     private int y;
-
+ 
     public Ponto2D() {
         x = 0;
         y = 0;
