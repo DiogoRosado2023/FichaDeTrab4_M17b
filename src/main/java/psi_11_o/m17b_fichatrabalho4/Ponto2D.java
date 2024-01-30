@@ -3,7 +3,7 @@ package psi_11_o.m17b_fichatrabalho4;
 /**
  *
  * @author DiogoR
- * @version 1.0
+ * @version 1.1
  */
     
 public class Ponto2D {
