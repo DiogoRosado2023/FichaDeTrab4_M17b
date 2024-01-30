@@ -5,7 +5,7 @@ package psi_11_o.m17b_fichatrabalho4;
  * @author DiogoR
  * @version 1.0
  */
-
+    
 public class Ponto2D {
 
     private int x;
